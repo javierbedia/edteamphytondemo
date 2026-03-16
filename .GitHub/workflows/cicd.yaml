@@ -17,5 +17,5 @@ Jobs:
          pip3 install -r requirements.txt
 
       - name: unittest
-         run: |
+        run: |
           pytest test/test.py  
