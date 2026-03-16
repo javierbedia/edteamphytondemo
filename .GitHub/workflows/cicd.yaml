@@ -1,4 +1,4 @@
-name: EDTEAM FastAPI demo
+name: EDTEAM FastAPI demo1
 
 on:
   push:
