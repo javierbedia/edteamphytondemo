@@ -1,4 +1,4 @@
-name: EDTEAM FastAPI demos
+name: EDTEAM FastAPI demo
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
       - develop
 
 jobs:
-  ciii:
+  ci:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
